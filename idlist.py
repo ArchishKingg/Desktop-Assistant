@@ -1,2 +1,2 @@
-my_gmail = "jarvis.archishkingg@gmail.com"
-password = "jarvis@123"
+my_gmail = "youremail@gmail.com"
+password = "your password"
