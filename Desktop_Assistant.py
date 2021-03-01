@@ -322,15 +322,3 @@ if __name__ == "__main__":
         elif 'open virtual box' in command:
             speak("Sure Sir! opening Virtual Box")
             os.startfile('C://ProgramData//Microsoft//\Windows//Start Menu//Programs//Oracle VM VirtualBox//Oracle VM VirtualBox.exe')
-
-        # elif '' in command:
-        #     pass
-       
-        # elif '' in command:
-        #     pass
-        
-        # elif '' in command:
-        #     pass
-        
-        elif '' in command:
-            pass
